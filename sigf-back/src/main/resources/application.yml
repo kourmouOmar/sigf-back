@@ -1,0 +1,11 @@
+## application informations
+info:
+  app:
+    name: Sigai service application
+    description: Microservice SIGF-SERVICE
+    version: 1.0.0
+
+server:
+  port: 1010
+  servlet:
+    context-path: /sigf-api
